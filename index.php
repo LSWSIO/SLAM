@@ -26,7 +26,7 @@
                 <section>
                     <h1>Administration</h1>
                     <ul>
-                        <li><a href="todo">Ecrire un billet</a></li>
+                        <li><a href="todo">Ecrire un billet avec Git</a></li>
                     </ul>
                 </section>
             </nav>
